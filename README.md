@@ -1,5 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Roshmeet Chakraborty</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
+<img align="right" alt="Coding" width="400" src=https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0d3r-m33t&label=Profile%20views&color=0e75b6&style=flat" alt="c0d3r-m33t" /> </p>
 
