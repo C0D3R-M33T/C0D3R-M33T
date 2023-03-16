@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/header/github-header-image.png" /></p>
+<p align="center"><img src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif" /></p>
 
 ![status](https://img.shields.io/badge/Btw-I%20use%20Arch-blue)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Arkapravo-Ghosh.Arkapravo-Ghosh)
