@@ -10,7 +10,7 @@
 <p align="center">
 <a href="(https://twitter.com/RoshmeetChakra3"><img height="30" src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/social/t.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/roshmeet/"><img height="30" src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/social/l.png"></a>&nbsp;&nbsp;
-<a href="meet227.wordpress.com"><img height="30" src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/social/p.jpg"></a>&nbsp;&nbsp;
+<a href="https://www.meet227.wordpress.com"><img height="30" src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/social/p.jpg"></a>&nbsp;&nbsp;
 </p>
 
 <h3 align="center">GitHub Trophies</h3>
