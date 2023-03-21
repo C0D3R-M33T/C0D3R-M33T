@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roshmeet Chakraborty</h1>
+<h1 align="center">HEY 👋 I'M ROSHMEET CHAKRABORTY</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 <p align="center"><img src="https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif" /></p>
 
