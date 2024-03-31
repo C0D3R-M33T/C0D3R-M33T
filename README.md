@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Blender,Threejs and web3**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **I use light mode but can promise bugfree code**
 
  </div>
  
