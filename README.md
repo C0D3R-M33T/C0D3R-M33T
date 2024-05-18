@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working with **iNeuron.ai** as MERN Developer.
+ 🔭 I’m currently working with **Webyapar** as UI Designer and UX Researcher.
  
  🌱 I’m currently learning **Blender,Threejs and web3**
 
