@@ -9,9 +9,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working with **Webyapar** as UI Designer and UX Researcher.
+ 🔭 I’m currently working with **Reuters** as Satellite Imagery Analyst.
  
- 🌱 I’m currently learning **Blender,Threejs and web3**
+ 🌱 I’m currently learning **Q-GIS, ArcGIS, Earth Engine**
 
 ⚡ Fun fact **I use light mode but can promise bugfree code**
 
