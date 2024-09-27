@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Q-GIS, ArcGIS, Earth Engine**
 
-⚡ Fun fact **I use light mode but can promise bugfree code**
+⚡ Fun fact **I am a Product Design Manager and I love Light Mode, but can assure you bugfree code**
 
  </div>
  
