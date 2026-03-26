@@ -3,19 +3,30 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Roshmeet+Chakraborty+at+your+service" />
 </h1>
 
-<h3 align="center">I'm introvert. So I grind when you are busy </h3>
+<h3 align="center">Shipping ideas while most people are still thinking about them</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working with **Reuters** as Satellite Imagery Analyst.
- 
- 🌱 I’m currently learning **Q-GIS, ArcGIS, Earth Engine**
+ Quietly building things that scale.  
 
-⚡ Fun fact **I am a Product Design Manager and I love Light Mode, but can assure you bugfree code**
+ <br/><br/>
 
- </div>
+ Founder @ COSMEON  
+ Building data centers in space  
+
+ <br/>
+
+ Product Owner @ Habryn  
+ Making cross-border living less painful  
+
+ <br/><br/>
+
+ Introvert. Systems thinker.  
+ I ship more than I talk.
+
+</div>
  
 <div align="center"> 
   <a href="mailto:roshmeet.chakraborty@gmail.com">
@@ -25,7 +36,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://roshmeet.netlify.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
