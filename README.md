@@ -9,14 +9,14 @@
 
 <div align="center">
  
- Quietly building things that scale.  
-
+ Quietly building things that scale.
+ 
  <br/><br/>
 
  Founder @ COSMEON  
  Building data centers in space  
 
- <br/>
+ <br/><br/>
 
  Product Owner @ Habryn  
  Making cross-border living less painful  
