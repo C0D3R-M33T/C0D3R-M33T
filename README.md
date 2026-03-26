@@ -10,22 +10,15 @@
 <div align="center">
  
  Quietly building things that scale.
- 
  <br/><br/>
-
  Founder @ COSMEON  
  Building data centers in space  
-
  <br/><br/>
-
  Product Owner @ Habryn  
  Making cross-border living less painful  
-
  <br/><br/>
-
  Introvert. Systems thinker.  
  I ship more than I talk.
-
 </div>
  
 <div align="center"> 
